@@ -3,7 +3,7 @@ using namespace std;
 class A{
 
     int x;
-    int y;// like global variable 
+    int y;
     public :
     A (){
         cout<<"Empty Constructor \n";
