@@ -8,10 +8,13 @@ class A{
         x=a;
         n++;
     }
-    void GetN(){
+    int GetN(){
         return n;
     }
 };
+
+int A::n =0;
+
 
 int A::n=0;
 int main(){

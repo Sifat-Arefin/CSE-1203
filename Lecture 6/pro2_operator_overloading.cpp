@@ -31,7 +31,7 @@ class impedence{
 
         }
 
-        impedence operator*(impedence &imp){  //name of the method +, not operator+
+        impedence operator*(impedence &imp){  //name of the method *, not operator*
             impedence temp;
             temp.real = real*imp.real  - img*imp.img;
             temp.img =real*imp.img + img*imp.real;
