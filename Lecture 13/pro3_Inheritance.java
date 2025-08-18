@@ -36,7 +36,7 @@ class B extends A{
             return y;
         }
         public void sum(){
-            System.out.println("sum= " + y+ Getx());
+            System.out.println("sum= " + (y+ Getx()));
         }
         
         public void Show(){

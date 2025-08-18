@@ -1,3 +1,5 @@
+
+
 // Difference between abstruct class and interface
 // interface in 100% abstruct class but abstruct class in partial abstruction 
 
@@ -27,7 +29,7 @@ class C extends B{
 
 public class pro2_abstruct {
     public static void main(String[]  args){
-        // A a = new B();
+        // A a = new A();
         // a.Display();
         // a.Show();
 

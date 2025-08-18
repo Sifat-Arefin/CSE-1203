@@ -12,7 +12,7 @@ public class pro1_array {
         System.out.println("Sorted array: " + Arrays.toString(arr));
 
         ArrayList<String> fruits = new ArrayList<>();
-         fruits.add("Mango");
+        fruits.add("Mango");
         fruits.add("Apple");
         fruits.add("Banana");
        
